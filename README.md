@@ -1,3 +1,34 @@
+
+Website Description ✨
+
+This website is a furniture or interior design business site called "Trendy Furnish."🚪
+Here's a breakdown of its features: 
+
+Purpose: The site aims to showcase the business's style, team, and services to potential customers.🪄
+
+Design:🎊
+
+It uses a clean and modern layout.
+It employs a consistent colour scheme (blues, greys, and a touch of orange/red). 
+It utilises custom fonts to enhance the visual appeal.
+Icons from Font Awesome are used throughout the site.
+
+Content:🔮
+
+Home: Introduces the business and its focus on modern furniture.
+Team: Presents the team members with their roles and social media links, building trust and showcasing expertise.
+Services: Highlights the services offered by the business.
+Review: Includes a customer testimonial to demonstrate customer satisfaction.
+Subscribe: Encourages visitors to subscribe to a newsletter for updates.
+
+Functionality:🎉
+
+The navigation menu allows users to browse different sections of the site.
+The "Subscribe" section provides a way for users to stay connected.
+The site provides contact information via the phone number in the header.
+
+Here is the breakdown of the code files:👇
+
 project1_temp.html:
 
 This is the HTML structure of the webpage.
@@ -55,27 +86,3 @@ Letter spacing (.ls1, .ls2)
 Custom line styles (.line1, .line2)
 It styles specific sections like the header, menu, banner, team boxes, services, review section, subscribe area, and footer.
 It handles the layout, colors, fonts, spacing, and other visual aspects of the webpage.
-
-Website Description
-
-This website is a furniture or interior design business site called "Trendy Furnish." Here's a breakdown of its features:
-
-Purpose: The site aims to showcase the business's style, team, and services to potential customers.
-
-Design:
-It uses a clean and modern layout.
-It employs a consistent color scheme (blues, grays, and a touch of orange/red).
-It utilizes custom fonts to enhance the visual appeal.
-Icons from Font Awesome are used throughout the site.
-
-Content:
-Home: Introduces the business and its focus on modern furniture.
-Team: Presents the team members with their roles and social media links, building trust and showcasing expertise.
-Services: Highlights the services offered by the business.
-Review: Includes a customer testimonial to demonstrate customer satisfaction.
-Subscribe: Encourages visitors to subscribe to a newsletter for updates.
-
-Functionality:
-The navigation menu allows users to browse different sections of the site.
-The "Subscribe" section provides a way for users to stay connected.
-The site provides contact information via the phone number in the header.
